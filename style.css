@@ -13,6 +13,9 @@
 
 
 }
+.text {
+ font-weight: bold;
+}
 
 .table-column,
 .thead {
